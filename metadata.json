@@ -1,0 +1,5 @@
+{
+  "name": "ChaosSim Professional - AI Incident Response Platform",
+  "description": "A builder-grade chaos engineering simulation dashboard designed to test AI Incident Response Agents by injecting production-style failures like memory leaks, API latency, and disk exhaustion.",
+  "requestFramePermissions": []
+}
