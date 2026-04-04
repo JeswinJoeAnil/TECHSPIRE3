@@ -4,7 +4,7 @@ import { TelemetrySnapshot, ShadowAnalysis } from "../types";
 const delay = (ms: number) => new Promise(res => setTimeout(res, ms));
 
 // ⚠️ REPLACE THIS WITH YOUR ACTUAL GROQ API KEY
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "mmmmmmm";
 
 export const performShadowAnalysis = async (snapshot: TelemetrySnapshot, retries = 3): Promise<ShadowAnalysis | null> => {
   
