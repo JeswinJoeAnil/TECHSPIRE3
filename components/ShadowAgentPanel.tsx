@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { ShadowAnalysis } from '../types';
+// Component uses ShadowAnalysis which now includes remediationAction field
 
 interface ShadowAgentPanelProps {
   analysis: ShadowAnalysis | null;
